@@ -1,4 +1,5 @@
 import Coordinate from './geom/Coordinate'
+import CoordinateFilter from './geom/CoordinateFilter'
 import CoordinateXY from './geom/CoordinateXY'
 import CoordinateXYM from './geom/CoordinateXYM'
 import CoordinateXYZM from './geom/CoordinateXYZM'
@@ -25,6 +26,7 @@ import * as util from './geom/util'
 
 export {
   Coordinate,
+  CoordinateFilter,
   CoordinateXY,
   CoordinateXYM,
   CoordinateXYZM,
